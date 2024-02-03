@@ -43,7 +43,7 @@
 
 <p align="center">
   <a href="sertukaptan@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" alt="gmail" height="50" width="65"/> </a>
-  <a href="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  <a href="https://www.linkedin.com/in/sertu-kaptan-3449161b0/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 </p>
 
 
