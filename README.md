@@ -7,11 +7,6 @@
     <summary><h1 style="display: inline-block">👋 Hello and Welcome to my profile</h1></summary>
   </ul>
 </div>
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 <div align="center">
   <h1> 👨🏻‍💻 About me </h1>
@@ -21,7 +16,7 @@
 - 👀 I love learning new Technologies and working on my own projects.
 - 🌱 I’m currently learning how to be a better Full Stack Engineer.
 - 🎮​ I try to develop my games from time to time.
-- 🗣️ I can currently speak German(B2), English(Native) and Turkish(Native).
+- 🗣️ I can currently speak German(B2), English(Native)
 
 
   
